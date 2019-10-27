@@ -3,8 +3,5 @@ Welcome to thr.txt from local repo!
 Welcome to thr.txt from Remote repo!
 Second change from local repo.
 Second change from remote repo.
-<<<<<<< HEAD
 Third line from local.
-=======
 Third line from remote.
->>>>>>> 21fec42a58d55f90c66205c666967f846fc7e02c
