@@ -1,1 +1,3 @@
 Welcome to two.txt file!
+This file is changed from Local repository!
+This file is second changed from local repository!
