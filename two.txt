@@ -1,4 +1,8 @@
 Welcome to two.txt file!
 This file is changed from Local repository!
 This file is second changed from local repository!
+<<<<<<< HEAD
 This is Third change from local repo!
+=======
+This file third Changed from remote remp!
+>>>>>>> b0e9cf76d5d625b5cce33cee30e08678e52aca25
