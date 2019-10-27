@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Welcome to thr.txt!
-=======
-Welcome to thr.txt!
->>>>>>> 217492c93e3e904e55596d0bda34541fa35a1b00
+Welcome to thr.txt from local repo!
