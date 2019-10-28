@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome from local repo!
+=======
+Welcome from remote repo!
+>>>>>>> 2f101409a2bfa3bf467868c7f76fd33edbf8ec5a
